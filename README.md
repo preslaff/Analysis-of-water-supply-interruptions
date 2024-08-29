@@ -3,5 +3,10 @@
 ## Abstract
 Acquisition of data, cleaning and arrangement for incidents related to interruption of water supply in the territory of Dobrich district. Geographic visualization and clustering.
 
+Here is a map with date picker filter to visualize the water interruptions in a 7 year period
+![Map of water supply interruptions by day for 7 year period](images/dobrich_water_interruptions.png)
+
+
+
 ## How to use
 Open the .ipynb file with Jupyter Notebook.
